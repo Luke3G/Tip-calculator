@@ -1,5 +1,5 @@
 body {
-    background: #333 url(img/food8.jpeg) center center no-repeat;
+    background: rgb(39, 38, 38) url(img/food8.jpeg) center center no-repeat;
     background-size: cover;
     color:#ab2523;
 }
